@@ -1,6 +1,13 @@
 # currency_app
-
 A new Flutter project.
+Compose UI from built-in and custom Widget
+Theming by defining global theme for colors and text to then tap into it from anywhere in the app via theme.of(context).
+Using lift state up and use stateful widget only when needed.
+Style and configure via arguments 
+Styling and layout using EdgeInsets.all(),enums, BoxDecoration
+Use the docs and IDE support.
+Pass functions references and data around
+
 
 ## Getting Started
 
